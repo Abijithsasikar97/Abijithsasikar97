@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abijith Sasikar
-- 👀 I’m interested building things and solving real world problems using technology.
+- 👀 I’m interested in building things and solving real world problems using technology.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on building projects that solve real world problems.
 - 📫 How to reach me 👇
